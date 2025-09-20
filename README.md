@@ -5,7 +5,8 @@
 初心者向け補助ツールです
 
 ## 実行
-[PMX補助ツール実行画面を開く](index.html)
+[PMX補助ツール実行画面を開く](https://github.com/user-attachments/files/22439771/jikkou.md)
+
 
 ## 使い方
 1. 上のリンクをクリックしてブラウザで開く
